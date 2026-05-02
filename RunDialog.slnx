@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RunDialog.App/RunDialog.App.csproj" />
+  <Project Path="RunDialog.Core/RunDialog.Core.csproj" />
+  <Project Path="RunDialog.Tests/RunDialog.Tests.csproj" />
+</Solution>

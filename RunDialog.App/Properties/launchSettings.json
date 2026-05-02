@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RunDialog.App (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "RunDialog.App (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
